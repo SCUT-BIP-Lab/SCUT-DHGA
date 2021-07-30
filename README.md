@@ -21,19 +21,19 @@ pip install -r requirement.txt
 #### for training
 ```python
 python main.py \
---training_file $path to the training config file$
---testing_file $path to the test config file$
---data_root $path to the dataset$
+--training_file $path to the training config file$ \
+--testing_file $path to the test config file$ \
+--data_root $path to the dataset$ \
 --train
 ```
 
 #### for testing
 ```python
 python main.py \
---training_file $path to the training config file$
---testing_file $path to the test config file$
---data_root $path to the dataset$
---test
+--training_file $path to the training config file$ \
+--testing_file $path to the test config file$ \
+--data_root $path to the dataset$ \
+--test \
 --testmodel_name $path to the parameters$
     
 ```
