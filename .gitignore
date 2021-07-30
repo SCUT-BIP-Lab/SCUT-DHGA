@@ -4,7 +4,6 @@ work_dir/state_dict/*
 !.gitkeep
 work_dir/test_dir/*
 !.gitkeep
-exp_record.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -17,7 +16,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 .vscode/
-visualization/
 build/
 develop-eggs/
 dist/
