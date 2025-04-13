@@ -6,7 +6,25 @@ We introduce a new dataset **SCUT-DHGA** which is the first large-scale Dynamic-
 
 Now a small part of our dataset containing both depth and color gesture videos from *five* subjects can be downloaded [here](https://drive.google.com/file/d/12vp-6o1gIJLfcw492EJILIXNqxAIcwRU/view?usp=sharing). Note that the depth data is 8-bit in this demo version. The 16-bit depth data will be released soon in our complete dataset.
 
-**\[Update]** We have released our complete dataset! You can download it from [here](https://pan.baidu.com/s/1tAL92M39_dLxXGuiz0QQdQ)(*code: fn3a*).
+**\[Update]** We have released our complete dataset!
+
+## Request
+The SCUT-DHGA dataset is publicly available (free of charge) to the research community.  
+Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
+
+Those interested in obtaining SCUT-DHGA should download ![release_agreement](SCUT-DHGA Dataset Release Agreement), and send by email one signed and scanned copy to scutbip@outlook.com.
+
+While reporting results using the SCUT-DHGA, please cite the following article:  
+@ARTICLE{9249008,
+  author={Liu, Chang and Yang, Yulin and Liu, Xingyan and Fang, Linpu and Kang, Wenxiong},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Dynamic-Hand-Gesture Authentication Dataset and Benchmark}, 
+  year={2021},
+  volume={16},
+  number={},
+  pages={1550-1562},
+  keywords={Authentication;Feature extraction;Training;Benchmark testing;Biometrics (access control);Physiology;Dynamic-hand-gesture;authentication;dataset;two-sessions;benchmark},
+  doi={10.1109/TIFS.2020.3036218}}
 
 ## How to run
 
@@ -39,3 +57,4 @@ python main.py \
 --testmodel_name $path to the parameters$
     
 ```
+
