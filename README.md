@@ -12,7 +12,7 @@ Now a small part of our dataset containing both depth and color gesture videos f
 The SCUT-DHGA dataset is publicly available (free of charge) to the research community.  
 Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-Those interested in obtaining SCUT-DHGA should download ![release_agreement]((https://github.com/BIP-Lab/SCUT-DHGA/blob/master/SCUT-DHGA Dataset Release Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
+Those interested in obtaining SCUT-DHGA should download ![release_agreement](https://github.com/BIP-Lab/SCUT-DHGA/blob/master/SCUT-DHGA Dataset Release Agreement.pdf), and send by email one signed and scanned copy to scutbip@outlook.com.
 
 While reporting results using the SCUT-DHGA, please cite the following article:  
 @ARTICLE{9249008,
